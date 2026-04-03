@@ -45,8 +45,8 @@ This dashboard provides a comprehensive view of worldwide internet usage, helpin
 
 ## 📸 Dashboard Preview
 
-*<img width="1121" height="627" alt="image" src="https://github.com/user-attachments/assets/236adb1a-5cf3-416e-8de8-98411b0c84e0" />
-*
+<img width="1121" height="627" alt="image" src="https://github.com/user-attachments/assets/236adb1a-5cf3-416e-8de8-98411b0c84e0" />
+
 
 ---
 
